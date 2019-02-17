@@ -1,5 +1,5 @@
 # dracula-for-spotify
-A simple Dracula-inspired spicetify/spicetify-cli skin. Made for my own use.
+A simple Dracula-inspired [spicetify-cli](https://github.com/khanhas/spicetify-cli)/[spicetify-cli](https://github.com/khanhas/spicetify) skin. Made for my own use.
 
 ![Browse](https://i.imgur.com/MAjsCVm.png)
 ![Album](https://i.imgur.com/z7thIss.png)
